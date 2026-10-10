@@ -37,4 +37,3 @@ Files added:
 - src/App.jsx
 - src/index.css
 - .gitignore
-
